@@ -2,6 +2,9 @@
 
 An end-to-end HR Analytics project built entirely in Microsoft Excel.
 
+## 📸 Dashboard Preview
+![HR Dashboard](dashboard_preview.png)
+
 ## 📊 Project Overview
 This project takes a raw, messy HR dataset of 500+ employee records and transforms it 
 into a fully interactive executive dashboard.
