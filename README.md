@@ -37,6 +37,5 @@ into a fully interactive executive dashboard.
 - Microsoft Excel (Pivot Tables, Slicers, Advanced Formulas, Charts)
 
 ## 👤 Author
-*Your Name Here*  
-*LinkedIn: your-linkedin-url*
-```
+*Dhammadeep Ramteke*  
+*LinkedIn: https://www.linkedin.com/in/dhammadeep-ramteke/*
